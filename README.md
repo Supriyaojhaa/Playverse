@@ -15,6 +15,8 @@
 
 Here’s a glimpse of Playverse in action:
 ![Screenshot 2025-05-13 231543](https://github.com/user-attachments/assets/c0b07451-7bec-4a7c-a3ca-684d22344bb6)
+![Screenshot 2025-05-13 233923](https://github.com/user-attachments/assets/1cd34a29-b573-480e-a58b-176c8a294d67)
+![Screenshot 2025-05-13 234047](https://github.com/user-attachments/assets/85a759d4-1048-4815-82c3-188abd1f60c8)
 
 ## 🚀 Getting Started
 
